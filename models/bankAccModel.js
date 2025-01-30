@@ -45,7 +45,7 @@ const initializeDatabase = async () => {
                 logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8R4K8CldBXma-71sNRe7zl2stWdcMJIilQ&s",
                 products: ["Dater", "Mini Dater", "Approval", "Paid", "Locker", "Number", "Fake Note", "Decline"],
                 password: 1000,
-                branchName: "Patlur Branch",
+                branchName: "Patlur",
                 address: "No.403/B, Mohana Complex, Kanjappalli Pirivu Junction, Annur- Avinashi Road, Kanjappalli, Coimbatore Dist, Tamil Nadu-641653"
             },
              
